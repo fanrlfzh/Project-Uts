@@ -1,5 +1,4 @@
 # Codingan Activity_main.xml
-
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -85,7 +84,6 @@
 
 
 # Codingan MainActivity.java
-
 package com.example.simple_calculator;
 
 import android.os.Bundle;
